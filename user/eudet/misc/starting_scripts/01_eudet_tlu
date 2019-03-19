@@ -12,4 +12,4 @@ xterm -T "EUDET TLU Producer" -e 'euCliProducer -n EudetTluProducer -t eudet_tlu
 # Start one DataCollector
 # name (-t) in conf file
 # or: -n TriggerIDSyncDataCollecor
-xterm -T "Data Collector TLU" -e 'euCliCollector -n DirectSaveDataCollector -t tlu_dc -r tcp://192.168.22.1:44000' &
+xterm -T "Data Collector TLU" -e 'euCliCollector -n DirectSaveDataCollector -t one_dc -r tcp://192.168.22.1:44000' &
