@@ -1,0 +1,20 @@
+===============================================
+Abnormal exit of TLU Control Utility(1.1) at 2019-04-06 12:47:16.618
+Uncaught exception:
+No TLU detected
+-----------------------------------------------
+===============================================
+Abnormal exit of TLU Control Utility(1.1) at 2019-04-06 12:48:59.482
+Uncaught exception:
+No TLU detected
+-----------------------------------------------
+===============================================
+Abnormal exit of TLU Control Utility(1.1) at 2019-04-06 12:49:01.347
+Uncaught exception:
+No TLU detected
+-----------------------------------------------
+===============================================
+Abnormal exit of TLU Control Utility(1.1) at 2019-04-06 12:49:02.914
+Uncaught exception:
+No TLU detected
+-----------------------------------------------
